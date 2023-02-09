@@ -1,11 +1,10 @@
-# Adding config.py file.
+# adding config.py file very important
 config.py
 
-# Adding additional files
-
+# also ignore my practice files
 API_practice.ipynb
 random_numbers.ipynb
-
+readmetest.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
